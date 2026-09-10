@@ -1,0 +1,14 @@
+D:\batch04E\C#\inheritance\inheritance\bin\Debug\net8.0\inheritance.exe
+D:\batch04E\C#\inheritance\inheritance\bin\Debug\net8.0\inheritance.deps.json
+D:\batch04E\C#\inheritance\inheritance\bin\Debug\net8.0\inheritance.runtimeconfig.json
+D:\batch04E\C#\inheritance\inheritance\bin\Debug\net8.0\inheritance.dll
+D:\batch04E\C#\inheritance\inheritance\bin\Debug\net8.0\inheritance.pdb
+D:\batch04E\C#\inheritance\inheritance\obj\Debug\net8.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\batch04E\C#\inheritance\inheritance\obj\Debug\net8.0\inheritance.AssemblyInfoInputs.cache
+D:\batch04E\C#\inheritance\inheritance\obj\Debug\net8.0\inheritance.AssemblyInfo.cs
+D:\batch04E\C#\inheritance\inheritance\obj\Debug\net8.0\inheritance.csproj.CoreCompileInputs.cache
+D:\batch04E\C#\inheritance\inheritance\obj\Debug\net8.0\inheritance.dll
+D:\batch04E\C#\inheritance\inheritance\obj\Debug\net8.0\refint\inheritance.dll
+D:\batch04E\C#\inheritance\inheritance\obj\Debug\net8.0\inheritance.pdb
+D:\batch04E\C#\inheritance\inheritance\obj\Debug\net8.0\inheritance.genruntimeconfig.cache
+D:\batch04E\C#\inheritance\inheritance\obj\Debug\net8.0\ref\inheritance.dll

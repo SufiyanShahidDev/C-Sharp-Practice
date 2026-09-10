@@ -1,0 +1,14 @@
+D:\batch04E\C#\studentManagementSystem\studentManagementSystem\bin\Debug\net8.0\studentManagementSystem.exe
+D:\batch04E\C#\studentManagementSystem\studentManagementSystem\bin\Debug\net8.0\studentManagementSystem.deps.json
+D:\batch04E\C#\studentManagementSystem\studentManagementSystem\bin\Debug\net8.0\studentManagementSystem.runtimeconfig.json
+D:\batch04E\C#\studentManagementSystem\studentManagementSystem\bin\Debug\net8.0\studentManagementSystem.dll
+D:\batch04E\C#\studentManagementSystem\studentManagementSystem\bin\Debug\net8.0\studentManagementSystem.pdb
+D:\batch04E\C#\studentManagementSystem\studentManagementSystem\obj\Debug\net8.0\studentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\batch04E\C#\studentManagementSystem\studentManagementSystem\obj\Debug\net8.0\studentManagementSystem.AssemblyInfoInputs.cache
+D:\batch04E\C#\studentManagementSystem\studentManagementSystem\obj\Debug\net8.0\studentManagementSystem.AssemblyInfo.cs
+D:\batch04E\C#\studentManagementSystem\studentManagementSystem\obj\Debug\net8.0\studentManagementSystem.csproj.CoreCompileInputs.cache
+D:\batch04E\C#\studentManagementSystem\studentManagementSystem\obj\Debug\net8.0\studentManagementSystem.dll
+D:\batch04E\C#\studentManagementSystem\studentManagementSystem\obj\Debug\net8.0\refint\studentManagementSystem.dll
+D:\batch04E\C#\studentManagementSystem\studentManagementSystem\obj\Debug\net8.0\studentManagementSystem.pdb
+D:\batch04E\C#\studentManagementSystem\studentManagementSystem\obj\Debug\net8.0\studentManagementSystem.genruntimeconfig.cache
+D:\batch04E\C#\studentManagementSystem\studentManagementSystem\obj\Debug\net8.0\ref\studentManagementSystem.dll
